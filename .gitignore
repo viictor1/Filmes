@@ -1,36 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@viictor1
-viictor1 /
-lojinha
-Public
-
-Cannot fork because you own this repository and are not a member of any organizations.
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Beta Try the new code view
-lojinha/.gitignore
-@viictor1
-viictor1 alter category
-Latest commit b206909 Mar 14, 2023
-History
-1 contributor
-35 lines (30 sloc) 406 Bytes
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -66,21 +33,3 @@ build/
 .vscode/
 
 .metadata/
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-lojinha/.gitignore at master · viictor1/lojinha
-
